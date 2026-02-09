@@ -1,5 +1,5 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ced9e8,100:fdbace&height=120&text=Jeonghyun's%20github&animation=&fontColor=7a5ca6&fontSize=50" />
+        <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ced9e8,100:fdbace&height=120&text=Jeonghyun's%20github&animation=&fontColor=a380ac&fontSize=50" />
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 안녕하세요, 송정현입니다. </h2>  
